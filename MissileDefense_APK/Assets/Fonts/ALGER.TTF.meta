@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cf64a28bb36f9614aad5e59b558de4fc
+timeCreated: 1502254829
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Algerian
+  fontNames:
+  - Algerian
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

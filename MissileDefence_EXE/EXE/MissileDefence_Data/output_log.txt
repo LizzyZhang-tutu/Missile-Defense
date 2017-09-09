@@ -1,0 +1,39 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1133 MB
+    Driver:   21.20.16.4627
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.022 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.908921 ms
+Platform assembly: C:\2A\C#Unity\Unity\导弹追击\MissileDefence_EXE\EXE\MissileDefence_Data\Managed\System.Xml.dll (this message is harmless)
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.265639 ms
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 1441.
+Total: 1.451485 ms (FindLiveObjects: 0.183384 ms CreateObjectMapping: 0.061128 ms MarkObjects: 0.987076 ms  DeleteObjects: 0.215384 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2660 -> priority: 1 
+  Thread -> id: 1798 -> priority: 1 
